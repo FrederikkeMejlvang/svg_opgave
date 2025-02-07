@@ -1,0 +1,26 @@
+[
+  {
+    "poi": "punkt1",
+    "overskrift": "Marmorkirken",
+    "tekst": "Åbent for besøg: Mandag - Torsdag + Lørdag: 10-17, Fredag + Søndag: 12-17.",
+    "billede": "kirke"
+  },
+  {
+    "poi": "punkt2",
+    "overskrift": "Dr Byen",
+    "tekst": "Hjem til den nationale tv- og radiostation Danmarks Radio (DR).",
+    "billede": "dr"
+  },
+  {
+    "poi": "punkt3",
+    "overskrift": "Frederiksberg Allé",
+    "tekst": "Løber syd for Gammelkongevej, mellem Vesterbro og Frederiksberg Have.",
+    "billede": "frederiksberg"
+  },
+  {
+    "poi": "punkt4",
+    "overskrift": "Kea Guldbergsgade",
+    "tekst": "Kea Guldbergsgade er Main Campus for Københavns Erhvervsakademi.",
+    "billede": "bro"
+  }
+]

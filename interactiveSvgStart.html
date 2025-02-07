@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Untitled Document</title>
+    <script type="text/javascript" src="interactiveSvgStart.js"></script>
+  </head>
+
+  <body>
+    <div id="map"></div>
+    <article id="info">
+      <h1></h1>
+      <p></p>
+      <img src="" alt="" />
+    </article>
+  </body>
+</html>
+
+<style>
+  #map {
+    max-width: 100%;
+  }
+  main {
+    display: grid;
+    max-height: 50vh;
+  }
+  img {
+    max-width: 100%;
+  }
+  circle:hover {
+    cursor: pointer;
+    fill: #cb63db;
+  }
+  #info {
+    position: absolute;
+    background-color: antiquewhite;
+    padding: 10px 20px;
+    text-align: center;
+    width: 300px;
+    display: none;
+  }
+  #info h1 {
+    display: inline-block;
+  }
+  .vis {
+    opacity: 0;
+    transform: translateY(-10px);
+    animation: draw 2s ease-out forwards;
+  }
+
+  @keyframes draw {
+    to {
+      opacity: 1;
+      transform: translateY(0px);
+    }
+  }
+
+  .animer-rute {
+    stroke-dasharray: 530;
+    stroke-dashoffset: 530;
+    animation: spor 5s 0s ease both;
+    stroke: #cb63db;
+    stroke-width: 4px;
+  }
+  @keyframes spor {
+    to {
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes fadein {
+    to {
+      opacity: 1;
+    }
+  }
+</style>

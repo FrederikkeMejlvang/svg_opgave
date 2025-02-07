@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer" xmlns="http://www.w3.org/2000/svg" width="1139" height="819" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1139 819">
+  <g id="kort">
+    <image id="kort-2" data-name="kort" width="1575" height="1209" transform="scale(.72 .68)" xlink:href="koebenhavn.png"/>
+  </g>
+  <g id="points">
+    <circle id="punkt1" cx="579" cy="326" r="25" fill="#4c0e48"/>
+    <circle id="punkt2" data-name="punkt2" cx="579" cy="749" r="25" fill="#4c0e48"/>
+    <circle id="punkt3" data-name="punkt3" cx="165" cy="500" r="25" fill="#4c0e48"/>
+    <circle id="punkt4" data-name="punkt4" cx="239" cy="207" r="25" fill="#4c0e48"/>
+  </g>
+  <path id="rute4" d="M425.5,361.5l-44,57-9,5c-10.39,14.15-14.6,27.81-13,41-19.89,14.28-42.79,23.74-68.39,28.87-47.17-13.89-92.62-29.44-136-47l-12.61,37.13h2" fill="none" stroke="#000" stroke-miterlimit="10"/>
+  <path id="rute3" d="M429.5,364.5l25,58-12.5,10.11,35.5,53.89-28,18,71,60,47,13-6,18-14,16-16,75c-1.16,4.64-.27,9.63,3,15,6.39,12.62,14.26,23.7,25.22,31.58" fill="none" stroke="#000" stroke-miterlimit="10"/>
+  <polyline id="rute2" points="432.5 359.5 449.5 341.5 531.5 377.5 554 333.98" fill="none" stroke="#000" stroke-miterlimit="10"/>
+  <polyline id="rute1" points="257.1 224.24 297 268 358 306 377 319 381 312 448 341 431 358" fill="none" stroke="#000" stroke-miterlimit="10"/>
+</svg>
